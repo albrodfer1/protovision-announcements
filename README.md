@@ -2,16 +2,14 @@
 
 ## April 26, 2025
 
-Protovision Official Announcement
+Protovision is proud to announce that Project Riptide, previously under active development, is now officially available to the public.
 
-Protovision is thrilled to announce that Project Riptide, a highly anticipated title that has been under active development, is now officially ready for public release.
+Today marks a significant milestone for our company: not only is Project Riptide ready for everyone to experience, but all documents, materials, and resources related to the project have been fully declassified and made publicly accessible. There is no longer any confidential information associated with Project Riptide — everything we have created for it is now open for the community, industry professionals, and players around the world to explore.
 
-After months of dedication, refinement, and feedback from our incredible community, Project Riptide is complete and available for players around the world. This marks a major milestone for Protovision, and we could not be more excited to share this journey with all of you.
+This release reflects Protovision’s commitment to transparency, innovation, and fostering a deeper connection with our audience. We believe that by making every part of Project Riptide’s development process available, we empower players and creators alike to better understand, enjoy, and even build upon what we’ve made.
 
-Project Riptide represents our commitment to pushing the boundaries of interactive entertainment, delivering a unique experience crafted with passion and innovation.
+All details about Project Riptide — including technical documentation, creative assets, developer notes, and more — can be accessed directly through our official website.
 
-For more information about Project Riptide — including gameplay details, release platforms, trailers, and exclusive behind-the-scenes content — please visit our official website.
-
-Thank you for your continued support. We can't wait to see you dive into the world of Project Riptide!
+We are incredibly excited to finally share this project in its entirety with you. Thank you for being part of our journey.
 
 — The Protovision Team
